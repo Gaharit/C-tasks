@@ -146,10 +146,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ConsoleApplication1\CommonLetters\Source.c" />
+    <Text Include="song.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\ConsoleApplication1\CommonLetters\song.txt" />
+    <ClCompile Include="Source.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

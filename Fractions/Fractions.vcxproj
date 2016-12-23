@@ -146,11 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ConsoleApplication1\Fractions\Source.c" />
-    <ClCompile Include="..\..\ConsoleApplication1\Fractions\Source2.c" />
+    <ClCompile Include="Source.c" />
+    <ClCompile Include="Source2.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\ConsoleApplication1\Fractions\Source2.h" />
+    <ClInclude Include="Source2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

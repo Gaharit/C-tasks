@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ConsoleApplication1\Fractions\Source.c">
+    <ClCompile Include="Source.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\ConsoleApplication1\Fractions\Source2.c">
+    <ClCompile Include="Source2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\ConsoleApplication1\Fractions\Source2.h">
+    <ClInclude Include="Source2.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
