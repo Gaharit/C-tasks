@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-tasks", "C-tasks\C-tasks.vcxproj", "{6C20AD0C-1C3E-452B-82F8-D07028F37282}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "palindrome", "C-tasks\C-tasks.vcxproj", "{6C20AD0C-1C3E-452B-82F8-D07028F37282}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fractions", "Fractions\Fractions.vcxproj", "{F80307F0-DDD8-42C7-9337-339EE62E9982}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Akinator", "Akinator\Akinator.vcxproj", "{8DC22B06-93AC-40EC-A693-5EA021C8B00C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommonLetters", "CommonLetters\CommonLetters.vcxproj", "{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,30 @@ Global
 		{6C20AD0C-1C3E-452B-82F8-D07028F37282}.Release|x64.Build.0 = Release|x64
 		{6C20AD0C-1C3E-452B-82F8-D07028F37282}.Release|x86.ActiveCfg = Release|Win32
 		{6C20AD0C-1C3E-452B-82F8-D07028F37282}.Release|x86.Build.0 = Release|Win32
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Debug|x64.ActiveCfg = Debug|x64
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Debug|x64.Build.0 = Debug|x64
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Debug|x86.ActiveCfg = Debug|Win32
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Debug|x86.Build.0 = Debug|Win32
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Release|x64.ActiveCfg = Release|x64
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Release|x64.Build.0 = Release|x64
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Release|x86.ActiveCfg = Release|Win32
+		{F80307F0-DDD8-42C7-9337-339EE62E9982}.Release|x86.Build.0 = Release|Win32
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Debug|x64.ActiveCfg = Debug|x64
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Debug|x64.Build.0 = Debug|x64
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Debug|x86.Build.0 = Debug|Win32
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Release|x64.ActiveCfg = Release|x64
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Release|x64.Build.0 = Release|x64
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Release|x86.ActiveCfg = Release|Win32
+		{8DC22B06-93AC-40EC-A693-5EA021C8B00C}.Release|x86.Build.0 = Release|Win32
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Debug|x64.ActiveCfg = Debug|x64
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Debug|x64.Build.0 = Debug|x64
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Debug|x86.Build.0 = Debug|Win32
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Release|x64.ActiveCfg = Release|x64
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Release|x64.Build.0 = Release|x64
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Release|x86.ActiveCfg = Release|Win32
+		{F8E024BE-F909-46E4-AB7F-E0D6DA5C561F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6C20AD0C-1C3E-452B-82F8-D07028F37282}</ProjectGuid>
+    <ProjectGuid>{F80307F0-DDD8-42C7-9337-339EE62E9982}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Ctasks</RootNamespace>
+    <RootNamespace>Fractions</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>palindrome</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,7 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ConsoleApplication1\Palindrome\Source.c" />
+    <ClCompile Include="..\..\ConsoleApplication1\Fractions\Source.c" />
+    <ClCompile Include="..\..\ConsoleApplication1\Fractions\Source2.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\ConsoleApplication1\Fractions\Source2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
